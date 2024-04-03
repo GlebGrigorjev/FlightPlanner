@@ -9,7 +9,7 @@ The main idea behind this project wast to umprove knowldge of SQL, EF, Validatio
 
 Flight Planner employs a modular design, leveraging Entity Framework for data management and C# for backend logic. Key aspects of the project include:
 
-- **CRUD Functionality:** The application allows users to Create, Read, Update, and Delete flight and airport records.
+- **CRUD Functionality:** The application allows users to Create, Read, Update, and Delete flight/airport records.
 - **Modular Architecture:** Components are organized into projects, folders, and separate files, promoting maintainability and reusability.
 - **Data Validation:** Fluent Validation NuGet Package is utilized for robust data validation, ensuring data integrity and accuracy.
 - **Basic Authorization:** The project incorporates basic authorization mechanisms to restrict access to authorized users only.
